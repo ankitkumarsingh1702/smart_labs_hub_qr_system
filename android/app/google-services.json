@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383564120676",
+    "project_id": "smartlabsait",
+    "storage_bucket": "smartlabsait.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383564120676:android:9097c612051d1ffa9ed571",
+        "android_client_info": {
+          "package_name": "com.example.smartlabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1G53hKgFphRRNFPYWrcKW4vY8OwfBMvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
