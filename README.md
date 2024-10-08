@@ -1,0 +1,1 @@
+# smart_labs_hub_qr_system
